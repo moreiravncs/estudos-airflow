@@ -17,7 +17,9 @@ sudo apt install python3.10-venv -y
 #### 3. Criar o ambiente virtual
 
 No Linux o Python é instalado em vários pacotes separados
+
 '-m' é para usar o módulo padrão venv (se não fizer isso dá erro)
+
 Na prática, a instalação anterior do venv instala arquivos extras no pacote pra ele funcionar de verdade
 
 ```bash
